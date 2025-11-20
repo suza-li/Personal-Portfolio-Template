@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    float: right;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: block;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#title {
+    text-align: center;
+    padding-bottom: 50px;
+    margin: 10px;
+}
+
+.content {
+    display: flex;
+    left: 0;
+    right: 0;
+}
+
+.content div {
+    flex: 1;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: solid black;
+}
+
+#reviews {
+    display: flex;
+}
+
+.review {
+    margin: 10px;
+    border: solid black;
+    padding: 10px;
+    border-radius: 25px;
+}
+
+footer {
+    position: static;
+    padding-top: 50px;
+    text-align: center;
+}
