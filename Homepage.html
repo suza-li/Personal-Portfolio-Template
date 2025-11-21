@@ -7,54 +7,65 @@
         <meta name="author" content="suza-li">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Cantata+One&family=Instrument+Serif&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="stylesheet.css">
         <title>Homepage</title>
     </head>
     <body>
         <nav>
-            <ul>
-                <li><h3 id="name">Your Name</h3></li>
+            <ul id="picName">
+                <li><img src="placeholderImg.png"></li>
+                <li>Your Name</li>
+            </ul>
+            <ul id="directory">
                 <li>Home</li>
                 <li><a href="Projects.html">Projects</a></li>
                 <li><a href="Articles.html">Article</a></li>
                 <li><a href="Contact.html">Contact</a></li>
             </ul>
         </nav>
-        <section id="title">
+
+        <section>
             <h1>Frontend Developer</h1>
             <p>html with proper layout and CSS styling</p>
         </section>
+
         <div class="content">
             <div>
                 <h3>Projects</h3>
-                <ul>
-                    <li>HTML only Portfolio</li>
-                    <li>Calculator</li>
-                    <li>Boba Menu</li>
-                    <li>Timer</li>
-                    <li>Product Launch Page</li>
-                </ul>
+                    <h5>HTML only Portfolio</h5>
+                    <hr>
+                    <h5>Calculator</h5>
+                    <hr>
+                    <h5>Boba Menu</h5>
+                    <hr>
+                    <h5>Timer</h5>
+                    <hr>
+                    <h5>Product Launch Page</h5>
             </div>
             <div>
                 <h3>Work Experience</h3>
                 <h4>Job 1</h4>
-                <p>Summary of Skills obtained from job</p>
-                <ul>
-                    <li>Skill 1</li>
-                    <li>Skill 1</li>
-                    <li>Skill 1</li>
-                    <li>Skill 1</li>
-                </ul>
+                <p>
+                    Summary of Skills obtained from job
+                    or of the project. If it is a project
+                    link the project in the bottom of the 
+                    section. <br><br>
+                    <a href="">Link to the Project</a>
+                </p>
                 <hr>
                 <h4>Job 2</h4>
-                <p>Summary of Skills obtained from job</p>
-                <ul>
-                    <li>Skill 1</li>
-                    <li>Skill 1</li>
-                    <li>Skill 1</li>
-                    <li>Skill 1</li>
-                </ul>
+                <p>
+                    Summary of Skills obtained from job
+                    or of the project. If it is a project
+                    link the project in the bottom of the 
+                    section. <br><br>
+                    <a href="">Link to the project</a>
+                </p>
             </div>
+
             <div>
                 <h3>Education</h3>
                 <p>
@@ -64,7 +75,7 @@
                     contests (such as hackatons), school nominated titles,
                     and club activities.
                 </p>
-                <h5>Relavent Courses:</h5>
+                <h4>Relavent Courses:</h4>
                 <ul>
                     <li>Computer Graphics</li>
                     <li>Data Structures and Algorithms</li>
@@ -76,25 +87,26 @@
                 </ul>
             </div>
         </div>
+
         <section>
             <h3>Reviews from my Teachers</h3>
             <div id="reviews">
                 <article class="review">
-                    <h3>Teacher quote of about 1-2 sentences</h3>
+                    <h4>"Student has been such a great thought leader."</h4>
                     <p>
                         Teacher name<br>
                         Teacher Title
                     </p>
                 </article>
                 <article class="review">
-                    <h3>Teacher quote of about 1-2 sentences</h3>
+                    <h4>"Great "</h4>
                     <p>
                         Teacher name<br>
                         Teacher Title
                     </p>
                 </article>
                 <article class="review">
-                    <h3>Teacher quote of about 1-2 sentences</h3>
+                    <h4>Teacher quote of about 1-2 sentences</h4>
                     <p>
                         Teacher name<br>
                         Teacher Title
@@ -102,6 +114,7 @@
                 </article>
             </div>
         </section>
+
         <footer>@ all rights reserved 20xx</footer>
     </body>
 </html>
