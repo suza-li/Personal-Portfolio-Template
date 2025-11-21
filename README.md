@@ -17,5 +17,8 @@ HTML
 CSS
 
 # Screenshots
-<img src="Screenshots/homepage.png" alt="homepage screenshot" width="200" height=auto>
-![Alt Homepage](Screenshots/homepage.png)
+<img src="Screenshots/homepage.png" alt="homepage screenshot" width="400" height=auto> <br>
+
+<img src="Screenshots/mobileHome.png" alt="mobile homepage screenshot" width="400" height=auto> <br>
+
+<img src="Screenshots/projectpage.png" alt="project screenshot" width="400" height=auto>
