@@ -12,7 +12,6 @@ For this project, the main objective was on learn how to copy the design of the 
 During this project, I had a hard time trying to style the content side by side. After doing some research, I was still confused with how to get the results I wanted. I used ChatGPT to help me with the CSS of the content. Before I implemented the code, I used W3Schools to double check the CSS.
 
 # Technology Used
-VSCode
 HTML
 CSS
 
