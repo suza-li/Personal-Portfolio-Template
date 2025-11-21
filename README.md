@@ -17,11 +17,12 @@ HTML
 CSS
 
 # Screenshots
-Homepage Screenshot
+The following images are just a few screenshots to display the responsiveness of the site as well as working pages.
+### Homepage Screenshot
 <img src="Screenshots/homepage.png" alt="homepage screenshot" width="400" height=auto> <br> <br>
 
-Mobile Homepage Screenshot
+### Mobile Homepage Screenshot
 <img src="Screenshots/mobileHome.png" alt="mobile homepage screenshot" width="400" height=auto> <br> <br>
 
-Project Page Screenshot
+### Project Page Screenshot
 <img src="Screenshots/projectpage.png" alt="project screenshot" width="400" height=auto>
