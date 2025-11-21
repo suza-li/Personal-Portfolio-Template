@@ -16,4 +16,4 @@ HTML
 CSS
 
 # Screenshots
-![Alt Homepage](Screenshots/homepage.pmg)
+![Alt Homepage](Screenshots/homepage.png)
