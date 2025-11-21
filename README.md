@@ -17,8 +17,11 @@ HTML
 CSS
 
 # Screenshots
+Homepage Screenshot
 <img src="Screenshots/homepage.png" alt="homepage screenshot" width="400" height=auto> <br> <br>
 
+Mobile Homepage Screenshot
 <img src="Screenshots/mobileHome.png" alt="mobile homepage screenshot" width="400" height=auto> <br> <br>
 
+Project Page Screenshot
 <img src="Screenshots/projectpage.png" alt="project screenshot" width="400" height=auto>
